@@ -14,11 +14,11 @@ With a background in **BBA in Marketing**, I combine technical skills with busin
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nk-rifat&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nk-rifat&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nk-rifat&theme=tokyonight)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nk-rifat&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk-rifat&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=nk-rifat&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🌱 Currently Learning
 - Next.js
