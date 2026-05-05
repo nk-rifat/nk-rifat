@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nazmul Kabir Rifat 👋
 
+## 🚀 About Me
+Passionate Junior Frontend Developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real projects and continuously improving my skills.
 
-**nk-rifat/nk-rifat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning **Next.js** while strengthening my knowledge of **React, JavaScript, Tailwind CSS, Node.js, Express.js, and MongoDB**.
 
-Here are some ideas to get you started:
+With a background in **BBA in Marketing**, I combine technical skills with business thinking to create user-focused digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💻 Tech Stack
+- Frontend: React.js, JavaScript, Tailwind CSS, DaisyUI
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, Firebase, Vite
 
+## 🌱 Currently Learning
+- Next.js
+- Advanced React Concepts
+- Full-Stack Development Best Practices
+
+## 🎯 Goals
+- Grow as a Frontend Developer
+- Build impactful real-world projects
+- Become a skilled Full-Stack Developer
