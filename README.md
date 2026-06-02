@@ -12,12 +12,6 @@ With a background in **BBA in Marketing**, I combine technical skills with busin
 - Database: MongoDB
 - Tools: Git, GitHub, Firebase
 
-## 📊 GitHub Stats
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nk-rifat&show_icons=true&hide_border=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk-rifat&layout=compact&hide_border=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=nk-rifat&hide_border=true" />
-
 ## 🌱 Currently Learning
 - Next.js
 - Advanced React Concepts
