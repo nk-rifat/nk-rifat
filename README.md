@@ -6,15 +6,14 @@ Passionate Junior Frontend Developer focused on building modern, responsive, and
 With a background in **BBA in Marketing**, I combine technical skills with business thinking to create user-focused digital solutions.
 
 ## 💻 Tech Stack
-- Frontend: React.js, JavaScript, Tailwind CSS, DaisyUI
+- Frontend: Next.js,React.js, JavaScript, Tailwind CSS, DaisyUI
 - State Management: Redux, React Query, Context API
 - Backend: Node.js, Express.js
-- Database: MongoDB
+- Database: MongoDB, Mongoose ORM
 - Tools: Git, GitHub, Firebase
 
 ## 🌱 Currently Learning
-- Next.js
-- Advanced React Concepts
+- TypeScript
 
 ## 🎯 Goals
 - Grow as a Frontend Developer
